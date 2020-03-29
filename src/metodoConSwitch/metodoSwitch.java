@@ -2,6 +2,7 @@
  * 18j shakmuria
 18j Curso Java desde cero Decidir con switch que método se invocará, eligiendo una opción[1]
 aqui encontramos los metodos que se crearon y pueden ser invocados por el metodo principal
+lego realice una priueba de commit a github
  */
 package metodoConSwitch;
 
