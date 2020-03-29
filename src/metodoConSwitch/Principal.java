@@ -1,6 +1,7 @@
 /*
  * 18j Curso Java desde cero Decidir con switch que método se invocará, eligiendo una opción[1]
- */
+aqui encontramos el metodo principal el cual para funcionar requiere invocar la clase metodoSwitch 
+*/
 package metodoConSwitch;
 
 import java.util.Scanner;
